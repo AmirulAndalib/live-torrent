@@ -58,3 +58,17 @@ for more information about the OpenSubtitles.org api user agent from [here](http
 
 
 heroku.com/deploy
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
